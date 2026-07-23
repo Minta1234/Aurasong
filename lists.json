@@ -1,6 +1,7 @@
 [
     {
         "song": "Song Title",
-        "link": "https://example.com/song"
+        "link": "https://example.com/song",
+        "logosong": "https://example.com/song.jpg"
     }
 ]
