@@ -79,15 +79,15 @@
     {
         "song": "Phonky town",
         "year":"2021",
-        "part": "/downloads/Phonky town.mp3",
-        "logosong": "/images/Phonky town.webp",
+        "part": "/downloads/Phonky Town.mp3",
+        "logosong": "/images/Phonky Town.webp",
         "previewsong":true
     },
     {
         "song": "Phonky Triby",
         "year":"2021",
-        "part": "/downloads/Phonky Triby.mp3",
-        "logosong": "/images/Phonky Triby.webp",
+        "part": "/downloads/Phonky Tribu.mp3",
+        "logosong": "/images/Phonky Tribu.webp",
         "previewsong":true
     },
     {
