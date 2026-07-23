@@ -12,7 +12,7 @@
     <script>
         async function loadList() {
             try {
-                const response = await fetch('/list.json');
+                const response = await fetch('/lists.json');
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}`);
                 }
