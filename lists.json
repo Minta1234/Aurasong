@@ -1,7 +1,142 @@
 [
     {
-        "song": "Song Title",
-        "link": "https://example.com/song",
-        "logosong": "https://example.com/song.jpg"
+        "song": "Close Eyes",
+        "year":"2021",
+        "part": "/downloads/Close Eyes.mp3",
+        "logosong": "/image/Close Eyes.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Disaster",
+        "year":"2021",
+        "part": "/downloads/Disaster.mp3",
+        "logosong": "/image/Disaster.webp",
+        "previewsong":true
+    },
+    {
+        "song": "help_urself",
+        "year":"2021",
+        "part": "/downloads/help_urself.mp3",
+        "logosong": "/image/help_urself.webp",
+        "previewsong":true
+    },
+    {
+        "song": "IN THE CLUB",
+        "year":"2021",
+        "part": "/downloads/IN THE CLUB.mp3",
+        "logosong": "/image/IN THE CLUB.webp",
+        "previewsong":true
+    },
+    {
+        "song": "INCOMING",
+        "year":"2021",
+        "part": "/downloads/INCOMING.mp3",
+        "logosong": "/image/INCOMING.webp",
+        "previewsong":true
+    },
+    {
+        "song": "LA ESPADA",
+        "year":"2021",
+        "part": "/downloads/LA ESPADA.mp3",
+        "logosong": "/image/LA ESPADA.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Live Another Day",
+        "year":"2021",
+        "part": "/downloads/Live Another Day.mp3",
+        "logosong": "/image/Live Another Day.webp",
+        "previewsong":true
+    },
+    {
+        "song": "METAMORPHOSIS",
+        "year":"2021",
+        "part": "/downloads/METAMORPHOSIS.mp3",
+        "logosong": "/image/METAMORPHOSIS.webp",
+        "previewsong":true
+    },
+    {
+        "song": "MIDNIGHT",
+        "year":"2021",
+        "part": "/downloads/MIDNIGHT.mp3",
+        "logosong": "/image/MIDNIGHT.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Murder In My Mind",
+        "year":"2021",
+        "part": "/downloads/Murder In My Mind.mp3",
+        "logosong": "/image/Murder In My Mind.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Override",
+        "year":"2021",
+        "part": "/downloads/Override.mp3",
+        "logosong": "/image/Override.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Phonky town",
+        "year":"2021",
+        "part": "/downloads/Phonky town.mp3",
+        "logosong": "/image/Phonky town.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Phonky Triby",
+        "year":"2021",
+        "part": "/downloads/Phonky Triby.mp3",
+        "logosong": "/image/Phonky Triby.webp",
+        "previewsong":true
+    },
+    {
+        "song": "RAVE",
+        "year":"2021",
+        "part": "/downloads/RAVE.mp3",
+        "logosong": "/image/RAVE.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Sahara",
+        "year":"2021",
+        "part": "/downloads/Sahara.mp3",
+        "logosong": "/image/Sahara.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Shadow Lady",
+        "year":"2021",
+        "part": "/downloads/Shadow Lady.mp3",
+        "logosong": "/image/Shadow Lady.webp",
+        "previewsong":true
+    },
+    {
+        "song": "SUICIDE YEAR",
+        "year":"2021",
+        "part": "/downloads/SUICIDE YEAR.mp3",
+        "logosong": "/image/SUICIDE YEAR.webp",
+        "previewsong":true
+    },
+    {
+        "song": "TANDEM",
+        "year":"2021",
+        "part": "/downloads/TANDEM.mp3",
+        "logosong": "/image/TANDEM.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Twilight",
+        "year":"2021",
+        "part": "/downloads/Twilight.mp3",
+        "logosong": "/image/Twilight.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Why Not",
+        "year":"2021",
+        "part": "/downloads/Why Not.mp3",
+        "logosong": "/image/Why Not.webp",
+        "previewsong":true
     }
 ]
