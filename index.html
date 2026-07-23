@@ -3,23 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pulljson" href="/list.json">
     <title>For song</title>
 </head>
 <body>
-    <h1> Website <a href="https://minta1234.kawinphopkodsombat.workers.dev/EX/AURA" target="_blank">https://minta1234.kawinphopkodsombat.workers.dev/EX/AURA only</a></h1>
+    <h1>Website <a href="https://minta1234.kawinphopkodsombat.workers.dev/EX/AURA" target="_blank">https://minta1234.kawinphopkodsombat.workers.dev/EX/AURA only</a></h1>
+    <pre id="output">Loading...</pre>
+
+    <script>
+        async function loadList() {
+            try {
+                const response = await fetch('/list.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                const data = await response.json();
+                console.log("JSON data fetched:", data);
+                document.getElementById('output').textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                console.error("Error fetching JSON data:", error);
+                document.getElementById('output').textContent = 'Failed to load list.json';
+            }
+        }
+
+        loadList();
+    </script>
 </body>
-<script>
-    // JavaScript code can be added here if needed
-    console.log("Website initialized.");
-    await fetch('/list.json')
-        .then(response => response.json())
-        .then(data => {
-            console.log("JSON data fetched:", data);
-            // You can process the JSON data here
-        })
-        .catch(error => {
-            console.error("Error fetching JSON data:", error);
-        });
-</script>
 </html>
