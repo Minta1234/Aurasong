@@ -138,5 +138,33 @@
         "part": "/downloads/Why Not.mp3",
         "logosong": "/images/Why Not.webp",
         "previewsong":true
+    },
+    {
+        "song": "KEROSENE",
+        "year":"2021",
+        "part": "/downloads/KEROSENE.mp3",
+        "logosong": "/images/KEROSENE.webp",
+        "previewsong":true
+    },
+    {
+        "song": "FUNK ESTRANHO",
+        "year":"2021",
+        "part": "/downloads/FUNK ESTRANHO.mp3",
+        "logosong": "/images/FUNK ESTRANHO.webp",
+        "previewsong":true
+    },
+    {
+        "song": "Goth",
+        "year":"2021",
+        "part": "/downloads/Goth.mp3",
+        "logosong": "/images/Goth.webp",
+        "previewsong":true
+    },
+    {
+        "song": "KORDHELL",
+        "year":"2021",
+        "part": "/downloads/KORDHELL.mp3",
+        "logosong": "/images/KORDHELL.webp",
+        "previewsong":true
     }
 ]
