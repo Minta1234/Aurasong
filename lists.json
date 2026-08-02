@@ -147,24 +147,17 @@
         "previewsong":true
     },
     {
-        "song": "FUNK ESTRANHO",
-        "year":"2021",
-        "part": "/downloads/FUNK ESTRANHO.mp3",
-        "logosong": "/images/FUNK ESTRANHO.webp",
+        "song": "NO ERA AMOR",
+        "year":"2025",
+        "part": "/downloads/NO ERA AMOR.mp3",
+        "logosong": "/images/NO ERA AMOR.webp",
         "previewsong":true
     },
     {
-        "song": "Goth",
-        "year":"2021",
-        "part": "/downloads/Goth.mp3",
-        "logosong": "/images/Goth.webp",
-        "previewsong":true
-    },
-    {
-        "song": "KORDHELL",
-        "year":"2021",
-        "part": "/downloads/KORDHELL.mp3",
-        "logosong": "/images/KORDHELL.webp",
+        "song":"𝙊𝙂𝙍𝙔𝙕𝙀𝙆 - 𝙅𝙀𝙎𝙐𝙎",
+        "year":"2025",
+        "part": "/downloads/𝙊𝙂𝙍𝙔𝙕𝙀𝙆 - 𝙅𝙀𝙎𝙐𝙎.mp3",
+        "logosong": "/images/𝙊𝙂𝙍𝙔𝙕𝙀𝙆 - 𝙅𝙀𝙎𝙐𝙎.webp",
         "previewsong":true
     }
 ]
